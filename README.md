@@ -7,11 +7,11 @@ Farmers often face uncertainity in predicting crop yield due to changing environ
 This project uses historical data and machine learning algorithm to predict crop yield accurately.
 
 # Tech Stack
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib / Seaborn
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib / Seaborn
 
 # Machine Learning Algorithms
 Data PreProcessing & feature selection
