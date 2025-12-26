@@ -14,17 +14,17 @@ This project uses historical data and machine learning algorithm to predict crop
 * Matplotlib / Seaborn
 
 # Machine Learning Algorithms
-Data PreProcessing & feature selection
-Model training and testing
-Regression model for yield prediction
+* Data PreProcessing & feature selection
+* Model training and testing
+* Regression model for yield prediction
 
 # Dataset
-Historical crop and environmental data
-Cleaned and processed for training the model
+* Historical crop and environmental data
+* Cleaned and processed for training the model
 
 # Results
-The model predicts crop yield with good accuracy
-Helps in understanding how different factors affect yield
+* The model predicts crop yield with good accuracy
+* Helps in understanding how different factors affect yield
 
 # How to Run
 1. Install required libraries
@@ -32,6 +32,6 @@ Helps in understanding how different factors affect yield
 3. view predicted results
 
 # Future Improvements
-Add more datasets
-Improve accuracy using advanced algorithms
-Deploy as a web application
+* Add more datasets
+* Improve accuracy using advanced algorithms
+* Deploy as a web application
